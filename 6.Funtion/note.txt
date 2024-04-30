@@ -1,0 +1,8 @@
+funtion is a piece of code that performes a specific task
+<-------syntex----->
+01.declaration
+returnType functionName(parameter1,parameter2,....)
+{
+    //statement
+}
+//concept of callstack
