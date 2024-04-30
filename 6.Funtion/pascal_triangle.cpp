@@ -15,8 +15,8 @@ int fact(int num)
     return factorial;
 }
 int main(){
-    int n;
-    cin>>n;
+    int n = 5;
+    // cin>>n;
 
     for(int i = 0; i<n; i++)
     {
